@@ -18,7 +18,7 @@ I'm a passionate learner who just started my journey on GitHub 2 weeks ago. Curr
 
 ---
 
-### 📫 Connect with me:
+### 📫 ~~Connect with me:~~ (SOON)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 
