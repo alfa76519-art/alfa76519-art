@@ -1,7 +1,7 @@
 # Hi, I'm alfa76519-art! 👋
 
 ### 👨‍💻 Web Developer Enthusiast
-I'm a passionate learner who just started my journey on GitHub ~~2 weeks~~ 3 weeks ago. Currently, I'm focusing on building clean and interactive web projects.
+I'm a passionate learner who just started my journey on GitHub ~~2 weeks 3 weeks ago~~. Currently, I'm focusing on building clean and interactive web projects.
 
 ---
 
